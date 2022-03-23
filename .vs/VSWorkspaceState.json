@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chapter_1"
+    "\\Chapter_1",
+    "\\Chapter_2",
+    "\\_Primitives",
+    "\\_templates"
   ],
+  "SelectedNode": "\\_Primitives\\rectangle.glsl",
   "PreviewInSolutionExplorer": false
 }
